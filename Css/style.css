@@ -79,8 +79,8 @@ footer{
 .texto_1 {
   margin-top: 20px;
   text-align: center;
+  height: auto;
     padding: 2em;
-    height: 20vh;
     width: 75vw;
     font-size: 1.5em;
    color: rgb(8, 8, 8);
@@ -88,15 +88,15 @@ footer{
    border-radius: 0 20px 20px 0;
    -webkit-border-radius: 0 20px 20px 0;
    -moz-border-radius: 0 20px 20px 0;
-   max-width: 650px ;
+   max-width: 700px ;
 }
 
 .texto_2 {
   margin-top: 20px;
   margin-bottom: 20px;
   text-align: center;
+  height: auto;
     padding: 2em;
-    height: 32vh;
     width: 75vw;
     font-size: 1.5em;
    color: rgb(8, 8, 8);
